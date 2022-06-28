@@ -17,4 +17,6 @@ Considerations:
 
 Hope it works for you. 
 
-Any questions, contact me at [linkedin-url]: https://linkedin.com/in/prithvi-patel-38665410a
+Any questions, contact me at:
+
+[linkedin-url]: https://linkedin.com/in/prithvi-patel-38665410a
